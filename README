@@ -1,0 +1,17 @@
+# BitsyBoy
+
+BitsyBoy is an upcoming open-source handheld console for playing BitsyBoy games, based on the Raspberry Pi Zero 2W.
+
+## Features
+### Will have
+- Buttons for controlling the game
+- Mono speaker
+- Stereo mini-jack output
+- Menu for choosing games
+- A way of adding games to the console
+### Nice to have
+- Bluetooth Audio
+- Wi-Fi “App Store” (itch.io)
+
+
+Parts
